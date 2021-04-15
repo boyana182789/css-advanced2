@@ -1,0 +1,35 @@
+@charset "utf-8";
+* {
+  padding: 0;
+  margin: 0;
+}
+.my-body{
+	background-image: url("../images/panda-background.jpg")
+}
+
+.my-heading{
+	text-align: center;
+	background-color: coral;
+	width: 30%;
+	margin-left: 34.5%;
+	padding: 1%;
+	font-family: 'Train One', cursive;
+}
+
+.my-picture{
+	width: 27%;
+	margin-left: 2%;
+	float: left;
+	padding: 1%;
+	margin-top: 1.5%;
+}
+
+.my-container{
+	background-color: coral;
+	margin: 4%;
+}
+
+.my-paragraph{
+	background-color: coral;
+	padding: 2%;
+}
